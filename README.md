@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Anime API byconsumet
+  Anime API by consumet
 </h1>
 <p align="center">
   Consumet provides an APIs for accessing information and links for various entertainments like movies, books, anime, etc.
@@ -114,17 +114,3 @@ Make a new [issue](https://github.com/consumet/consumet.ts/issues/new?assignees=
 ## Support
 You can contact the maintainers of consumet.ts via [email](mailto:consumet.org@gmail.com), or [join the discord server](https://discord.gg/qTPfvMxzNH) (Recommended).
 
-<a href="https://discord.gg/qTPfvMxzNH">
-   <img src="https://discordapp.com/api/guilds/987492554486452315/widget.png?style=banner2"/>
-</a>
-
-
-## Contributors ✨
-Thanks to the following people for keeping this project alive and thriving.
-
-[![](https://contrib.rocks/image?repo=consumet/consumet.ts)](https://github.com/consumet/consumet.ts/graphs/contributors)
-
-## Related repositories
- - [Consumet.ts](https://github.com/consumet/consumet.ts)
- - [Website](https://github.com/consumet/consumet.org)
- - [Providers Status](https://github.com/consumet/providers-status)
