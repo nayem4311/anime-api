@@ -1,11 +1,6 @@
-<p align="center">
-  <a href="https://consumet.org/">
-    <img alt="Consumet" src="https://consumet.org/images/consumetlogo.png" width="150">
-  </a>
-</p>
 
 <h1 align="center">
-  Consumet API
+  Anime API byconsumet
 </h1>
 <p align="center">
   Consumet provides an APIs for accessing information and links for various entertainments like movies, books, anime, etc.
