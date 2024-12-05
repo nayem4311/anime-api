@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Anime API by consumet
+  Anime API by Consumet
 </h1>
 <p align="center">
   Consumet provides an APIs for accessing information and links for various entertainments like movies, books, anime, etc.
